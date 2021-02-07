@@ -1,2 +1,4 @@
-# My First Blog-Post
-## The tips to a successful Journey
+---
+title: "My first GitHub blog"
+date: 2021-02-07
+---
